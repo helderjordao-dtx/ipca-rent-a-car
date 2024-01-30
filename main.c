@@ -1,4 +1,5 @@
-#include <hellofunc.h>
+#include "hellofunc.h"
+#include "hellofunc.c"
 
 int main() {
   // call a function in another file
